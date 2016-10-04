@@ -1,0 +1,4 @@
+repeat 50 simstep2 0
+setvalue 0xc4 0x31 veh1 <string> Road2
+getvariable 0xa4 0x40 veh1
+simstep2 200
